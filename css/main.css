@@ -201,3 +201,7 @@ footer span {
   margin-top: 5px;
   font-size: 14px;
 }
+.list-about-block {
+display: flex;
+justify-content: center;  
+}
